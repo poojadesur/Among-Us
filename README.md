@@ -4,7 +4,6 @@
 
 ## Compiling and Running
 
-In the 2019101112 directory, the source files and CMakeLists.txt are present.
 In order to run the code, create a build folder and compile using cmake.
 
 ```python
