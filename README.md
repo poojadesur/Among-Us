@@ -1,8 +1,4 @@
-# Computer Graphics Assignment 1
-
-### Pooja Desur
-
-### 2019101112
+# Computer Graphics 
 
 ---
 
